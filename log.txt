@@ -1,0 +1,9 @@
+INSERT INTO TutorialAppSchema.Computer (
+            Motherboard,
+            HasLTE,
+            HasWiFi,
+            Release,
+            Price,
+            VideoCard,
+            CpuCores
+          ) VALUES ('MB1','False','True','2023-09-25','1123.12','RX590','4')
